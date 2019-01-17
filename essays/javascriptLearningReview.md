@@ -16,6 +16,9 @@ One of the main differences that I noticed was that Javascript is much more gene
 
 From a software engineering perspective, Javascript is somewhat more accessible since you are able to program with it on internet browsers. I find this to be more convenient than having to use an external application. The only downside to coding in a web browser in my experience has been when the internet crashes, but there are ways around this by backing up your data frequently. Another benefit of Javascript has been that since it so widely used, you can often look up any of your questions or errors and actually find a useful answer. This was not the case when I was learning C, where you sometimes had to decrypt useful information from textbooks that were developed when the language was first created. 
 
+<img class="ui medium left floated image" src="../images/codecademy.JPG">
+<img class="ui medium left floated image" src="../images/freeCodeCamp.JPG">
+
 I was able to learn Javascript on two main websites, which were codeCamp and codecadamy. I found that codecadamy was much more clear in their instructions and examples than codeCamp was, however they were both vital in helping me to develop an understanding of the language. 
 
 This leads into the topic of athletic software engineering which is an approach that challenges me to work harder in order to succeed however creates a somewhat competitive atmosphere that also helps to motivate me. With both the practice and in class “WODs” that we have, they are helping me to have more practice coding in the language while also allowing me to make mistakes and further develop my skills in problem solving while coding. 
