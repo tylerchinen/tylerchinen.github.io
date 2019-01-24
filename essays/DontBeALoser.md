@@ -31,7 +31,7 @@ As we proceed we can see that the responses that they received were mostly const
 ## The Not-So-Smart Way
 <img class="bad question" src="../images/stackoverflow-bad.JPG">
 
-Next, we encounter a bad question which is shown above. At first glance it appears to be similar to the first question that we analyzed above, as it includes a snippet of code- but that is were the similarities end. We can also tell just by reading the proposed question or guidelines at the top that this is most likely not the questioners own words and are instead more similar to what we would see in an assignment. 
+Next, we encounter a bad question which is shown above. At first glance it appears to be similar to the first question that we analyzed above as it includes a snippet of code- but that is were the similarities end. We can also tell just by reading the proposed question or guidelines at the top that this is most likely not the questioners own words and are instead more similar to what we would see in an assignment. 
 
 <img class="bad question answers" src="../images/stackoverflow-bad-solution.JPG"> 
 
