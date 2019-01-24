@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Javascript Learning Process and Benefits
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
