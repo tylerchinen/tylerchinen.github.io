@@ -19,21 +19,21 @@ A popular site for many computer scientists is stack overflow which is an open s
 > 1. Try to find an answer by: searching the archives of the forum or mailing list that we plan to post to, searching the web, reading the manual, reading a FAQ, inspection or experimentation, asking a skilled friend, or by reading the source code.
 
 The following is an example of a good question that was asked on Stack Overflow.
-<img class="ui medium left floated image" src="../images/stackoverflow-good.JPG">
-<img class="ui medium left floated image" src="../images/stackoverflow-good2.JPG">
+<img class="good question" src="../images/stackoverflow-good.JPG" width="50">
+<img class="good question 2" src="../images/stackoverflow-good2.JPG">
 
 As we analyze we can see that the person asking the question has been working on this problem for a while and has done their research. This can be shown by the extensive amount of examples and experimentation that has already been done and provided. They have clearly been pondering this for a while and are ultimately stumped. 
 
-<img class="ui medium left floated image" src="../images/stackoverflow-good-solution.JPG">
+<img class="good answers" src="../images/stackoverflow-good-solution.JPG">
 
 As we proceed we can see that the responses that they received were mostly constructive and helpful to the questioner. This is because they clarify the question and continue to ask questions to clear things up and in attempts to help the person in need. They also provide other sources that they have located. These are all signs that this was a decent question to ask and was not as waste of time.
 
 ## The Not-So-Smart Way
-<img class="ui medium left floated image" src="../images/stackoverflow-bad.JPG">
+<img class="bad question" src="../images/stackoverflow-bad.JPG">
 
 Next, we encounter a bad question which is shown above. At first glance it appears to be similar to the first question that we analyzed above, as it includes a snippet of code- but that is were the similarities end. We can also tell just by reading the proposed question or guidelines at the top that this is most likely not the questioners own words and are instead more similar to what we would see in an assignment. 
 
-<img class="ui medium left floated image" src="../images/stackoverflow-bad-solution.JPG"> 
+<img class="bad question answers" src="../images/stackoverflow-bad-solution.JPG"> 
 
 As expected the responses to this show that the person who posted the question did very little to help themself and simply attempted the problem once without taking the time to understand where they might have gone wrong. They instead tried to get others to do the work for them and they were unsuccessful in this particular attempt. Raymond refers to these people as “time sinks” or “losers” or those who take up the time of another in order to benefit themself and give nothing back. I see this relationship as parasitic and then begs the question- what do I get out of this encounter? 
 
