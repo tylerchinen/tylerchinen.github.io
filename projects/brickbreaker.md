@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/brickbreaker.JPG
+image: images/brickbreakerSquare.JPG
 title: Brick Breaker
 permalink: projects/brickbreaker
 date: 2015-07-01
