@@ -1,36 +1,23 @@
 ---
 layout: project
 type: project
-image: images/drawingGame.JPG
+image: images/drawingGameSquare.JPG
 title: Drawing Game
-permalink: projects/drawingGame.md
-# All dates must be YYYY-MM-DD format!
+permalink: projects/drawingGame
 date: 2017-13-02
 labels:
-    - Drawing
-    - Java
-    - EZ
-summary: One of my first Java coding projects while also using EZ.
+  - Java
+  - EZ
+  - ICS111
+summary: One of the first Java programs I created.
 ---
 
-  <img class="ui image" src="../images/drawingGame.JPG">
+<img class="ui medium right floated rounded image" src="/images/drawingGame.JPG">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Brick Breaker was a group project that I worked on in my first computer science class (ICS 111). This one player game, has a "re-invented" space theme and is controlled with the 'a' and 'd' keys which move a bar on the bottom of the screen that can be used to deflect a ball that appears in a random position at the start of the game. The objective of the game is to break all of the bricks that are on the top of the screen by deflecting the ball with the bottom bar. As the game progresses it becomes more challanging as asteroid objects come onto the screen and can also deflect the ball. They can either be used to your advantage or not depending on the timing of when the ball hits the objects. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In this project, we dealed with creating many different classes to implement the functions of each of the objects that are seen on the screen as well as some of the hidden features that you might not always think of. I worked on implementing the main class which dealt with taking in all of the other individually implemented elements. Some of these elements included the bricks, ball, bar, and the obstacles. I also implemented the bricks which are "broken" when the ball hits them.
 
-Here is some code that illustrates how we read values from the line sensors:
+Throughout the process of creating this game, I learned a lot about the Java programming language, and about how a seemingly simple game can take a lot more work than might be expected. As a beginning programmer, I found that it was sometimes nice to be challanged by the coding itself and by working with others in a team. A lot of time was put into this project and in the end I feel that it was successful since we were all able to gain a better understanding of the code and recieved a satisfying result to show for our hard work.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can watch an example of the game being played in the [Youtube Video](https://www.youtube.com/watch?v=WK3JRqX0R3k).
+You can view an example of the game being played on Youtube: [Youtube Video](https://www.youtube.com/watch?v=WK3JRqX0R3k).
