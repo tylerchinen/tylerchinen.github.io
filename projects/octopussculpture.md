@@ -19,9 +19,9 @@ summary: In an art class at UH Manoa I was able to learn about the mold making p
 This project was created in my Art 116 class where we worked with sculpture media. For this project we were dealing with the mold making process. The medias that were used were clay, plaster, cement, paint, and varnish. The process took over four weeks and was very time consuming and messy. The basic outline of this process begins with creating a subject out of clay, then casting the clay object in plaster, then we remove the damp clay from the plaster, and can then add a the cement and allow it to "cure" then finally remove the plaster from the cement and polish and add details with paint and varnish.
 
 
-<img class="ui image" src="../images/octoTenticles1.JPG" width = 300>
-<img class="ui image" src="../images/octoTenticles2.JPG" width = 300>
-<img class="ui image" src="../images/octoTenticles3.JPG" width = 300>
+<img class="ui image" src="../images/octoTenticles1.JPG">
+<img class="ui image" src="../images/octoTenticles2.JPG">
+<img class="ui image" src="../images/octoTenticles3.JPG">
 
 As stated above, the first step in this process was to create an object that we could make a mold of. I chose an octopus since I wanted to make something unconventional and wanted to push the boundaries of what it was possible to create. When working with the mold making process we have to greatly consider the process of removing the plaster from the cement in the final steps. This is becuase we will often use a chisel and hammer, by doing so if our original design is too thin or fragile we will ultimately have wasted over four weeks of our lives as our work gets reduced to a pile of rubble. 
 
