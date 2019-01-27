@@ -29,7 +29,7 @@ summary: In an art class at UH Manoa I was able to learn about the mold making p
 <img class="ui image" src="../images/octoSwirl.JPG" width = 500>
   
   
-<img class="ui image" src="../images/octoClayPlaster.JPG" width = 500>
+<img class="ui image" src="../images/octoClayPlaster.JPG" height = 500>
 <img class="ui image" src="../images/octoPlaster.JPG" width = 500>
   
   
