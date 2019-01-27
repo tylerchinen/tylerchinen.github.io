@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/brickbreakerSquare.JPG
-title: Brick Breaker
-permalink: projects/brickbreaker
+image: images/drawingGameSquare.JPG
+title: Drawing Game
+permalink: projects/drawinggame
 date: 2015-07-01
 labels:
   - Java
