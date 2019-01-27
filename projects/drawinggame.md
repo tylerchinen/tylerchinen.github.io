@@ -4,7 +4,7 @@ type: project
 image: images/drawingGameSquare.JPG
 title: Drawing Game
 permalink: projects/drawinggame
-date: 2015-07-01
+date: 2019/01/27
 labels:
   - Java
   - JavaEZ
