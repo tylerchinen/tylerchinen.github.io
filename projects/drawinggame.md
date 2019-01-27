@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drawingGame.JPG
+image: images/drawingGameSquare.JPG
 title: Drawing Game
 permalink: projects/drawinggame
 date: 2019-27-01
