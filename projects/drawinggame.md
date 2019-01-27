@@ -9,15 +9,15 @@ labels:
   - Java
   - JavaEZ
   - ICS111
-summary: My team and I developed our own twist on the brick breaker game.
+summary: One of the first Java projects I created in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/brickbreaker.JPG">
+<img class="ui medium right floated rounded image" src="/images/drawingGame.JPG">
 
-Brick Breaker was a group project that I worked on in my first computer science class (ICS 111). This one player game, has a "re-invented" space theme and is controlled with the 'a' and 'd' keys which move a bar on the bottom of the screen that can be used to deflect a ball that appears in a random position at the start of the game. The objective of the game is to break all of the bricks that are on the top of the screen by deflecting the ball with the bottom bar. As the game progresses it becomes more challanging as asteroid objects come onto the screen and can also deflect the ball. They can either be used to your advantage or not depending on the timing of when the ball hits the objects. 
+This drawing game was created in my first ICS course (ICS 111). In this game there are four buttons that can be used to create a drawing. The first main button is the "New Line" button which is used to create a new line in the drawing plane. The next three are different colors that can be used to change the color of the lines that you can draw. The mouse is your tool and when you click on two points on the "notepad" a line will be drawn.The lines are continuous until you press the new line button.
 
-In this project, we dealed with creating many different classes to implement the functions of each of the objects that are seen on the screen as well as some of the hidden features that you might not always think of. I worked on implementing the main class which dealt with taking in all of the other individually implemented elements. Some of these elements included the bricks, ball, bar, and the obstacles. I also implemented the bricks which are "broken" when the ball hits them.
+As it was stated above, this was my one of my first projects, and it posed many problems for me. Many of them were posed by the very program that was made to help make our first programming experiences easier. That tool was EZ, this was becuase it was difficult to learn about the processes that we could utilize with EZ without going in often to get help from our TA's. Overall, this application is fairly simple, and was all implemented in one class.
 
-Throughout the process of creating this game, I learned a lot about the Java programming language, and about how a seemingly simple game can take a lot more work than might be expected. As a beginning programmer, I found that it was sometimes nice to be challanged by the coding itself and by working with others in a team. A lot of time was put into this project and in the end I feel that it was successful since we were all able to gain a better understanding of the code and recieved a satisfying result to show for our hard work.
+In the end, I was able to learn a lot by getting the help that I needed and the time that I put in was equivalent to the knowledge that I got out. 
 
-You can view an example of the game being played on Youtube: [Youtube Video](https://www.youtube.com/watch?v=VmEIAljnnFs).
+You can view an example of the game being played on Youtube: [Youtube Video](https://www.youtube.com/watch?v=WK3JRqX0R3k).
