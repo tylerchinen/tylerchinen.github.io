@@ -25,7 +25,7 @@ As stated above, the first step in this process was to create an object that we 
 
 The pictures above show a little of the process of how I created the suction cups on the octopus' tenticles. I created the octopus coming out of a cup to touch on the issue of how we can become reliant on caffeine in a way such that we have an attachment to it and that it is part of us- like an appendange. 
 
-<img align = "left" img class="ui image" src="../images/octoSwirl.JPG" width = "500"> <img align = "center" img class="ui image" src="../images/octoClay.JPG" width = "500">
+<img class="ui image" src="../images/octoSwirl.JPG" width = "500"> 
 
 This was the final design in clay. Each and every detail that was made on the clay also gets transferred to the plaster mold. This was important to keep in mind since it would ultimately transfer to our final piece. After the clay process we enter the plaster and actual mold making part. This part was very messy and hard to document with plaster covered hands. This process includes constantly mixing up new batches of plaster then splashing the liquid mixture onto our clay pieces and making sure that every nook was covered and that no air bubbles were present. We then added layers coninuously until the mold was about three to four inches thick. 
 
