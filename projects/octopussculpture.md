@@ -41,4 +41,4 @@ We then were able to add the cement into the plaster mold. The first layer consi
 <img class="ui image" src="../images/octoDetails.JPG" width = "500">
 <img class="ui image" src="../images/octoFinal.JPG" width = "500">
 
-Lastly we have our final piece, after the cement was chipped away and removed from the plaster mold, I was able to wash it clean and then add the final touches with paint to add color and varnish to give the octopus a wet look. Overall the process was extensive but beneficial to be able to learn about all of the differnet processes that go into making- what looks like a simple sculpture that may otherwise be overlooked by those who do not have knowledge of this process.
+Lastly, I have my final piece, after the cement was chipped away and removed from the plaster mold, I was able to wash it clean and then add the final touches with paint to add color and varnish to give the octopus a wet look. Overall the process was extensive but beneficial to be able to learn about all of the differnet processes that go into making- what looks like a simple sculpture that may otherwise be overlooked by those who do not have knowledge of this process.
