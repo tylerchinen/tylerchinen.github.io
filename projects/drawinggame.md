@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/drawingGameSquare.JPG
 title: Drawing Game
-permalink: projects/drawingGame
+permalink: projects/drawinggame
 date: 2019-27-01
 labels:
   - Java
