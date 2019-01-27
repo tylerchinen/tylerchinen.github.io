@@ -20,5 +20,6 @@ As it was stated above, this was my one of my first projects, and it posed many 
 
 In the end, I was able to learn a lot by getting the help that I needed and the time that I put in was equivalent to the knowledge that I got out. 
 
-The main body of code can be viewed [here](https://github.com/tylerchinen/drawinggame).
+The main body of code can be viewed [here](https://github.com/tylerchinen/drawinggame) as a github repository.
+
 You can view an example of the game being played on Youtube: [Youtube Video](https://www.youtube.com/watch?v=WK3JRqX0R3k).
