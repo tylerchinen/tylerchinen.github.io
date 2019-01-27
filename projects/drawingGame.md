@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/drawingGame.JPG
+title: Drawing Game
+permalink: projects/drawingGame
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-13-02
 labels:
     - Drawing
     - Java
