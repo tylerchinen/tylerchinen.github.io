@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/drawingGame.JPG
 title: Drawing Game
-permalink: projects/drawingGame
+permalink: projects/drawingGame.md
 # All dates must be YYYY-MM-DD format!
 date: 2017-13-02
 labels:
