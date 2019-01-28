@@ -74,8 +74,8 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Introduction to Computer Science I and II"
-        "Discrete Mathematics for Computer Science I and II"
+        "Introduction to Computer Science I and II",
+        "Discrete Mathematics for Computer Science I and II",
         "Program Structure"
       ]
     }
