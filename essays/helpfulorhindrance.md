@@ -17,7 +17,7 @@ Like any other writing style, coding has its own format that should be followed.
 ## My Impressions
 What I mean by this is that whenever I’m using ESLint, I could be in the middle of typing a line of code and there it is- the menacing and demeaning little red squiggle under my code and along with it a little red circle with an exclamation point in the corner of my screen. 
 
-<img class="red squiggle" src="../images/redunderline.png" width="50">
+<img class="red squiggle" src="../images/redunderline.png">
 
 These ever present red corrections and nagging reminders make it even more satisfying when the red squiggles disappear and a green check marking my success appear in the corner of my screen. It really is odd how a little symbol that is the size of an ant can bring such a feeling of relief after being antagonized by being told all of the things that you were doing wrong. It’s almost like proving all those who doubted you wrong after a recent success. 
 
