@@ -23,7 +23,7 @@ Readable language is incorporated into Semantic UI by having a syntax that uses 
 <img class="htmlandcss" src="../images/htmlandcss-example.JPG" width = "500">
 </p>
 <p align="center">
-<img class="semantic" src="../images/semantic-example.JPG" height = "300">
+<img class="semantic" src="../images/semantic-example.JPG" width = "600">
 </p>
 
 We are able to see that the raw website is much simpler and would easily be glazed over and possibly written off as an unreliable source solely because of the way it looks. In some cases- yes looks do matter in order to see if what’s on the inside is worth a potential site-visitors time. We can also see that by using Semantic UI we are able to add a little more customization. The search bar shows just the beginning of how far we can take this. 
