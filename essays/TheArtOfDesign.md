@@ -26,7 +26,7 @@ Design patterns are solutions that have been worked out after a long period of t
 ## Copy Cat Strikes Back
 
 <p>
-<img align="left" src="../images/copycat.JPG">
+<img float="left" src="../images/copycat.JPG">
 </p>
 
 With the studies of celebrated pieces of art, it is not uncommon to find that other artists often use these famous pieces of work as their templates to use to learn new techniques. By trying to recreate their work they can better understand the techniques that were being used by the original artists themselves. A software developer can sometimes operate similarly by using different patterns to help them come up with solutions for a project that they may be working on. Some of the most commonly used include prototype, observer, publish-subscribe, reactive, singleton, and Model-View-Controller design patterns. 
