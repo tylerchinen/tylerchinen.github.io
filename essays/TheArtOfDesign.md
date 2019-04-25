@@ -16,7 +16,7 @@ labels:
 Art history and history in general have been topics of interest for many people throughout time. This is proven as the pioneers of the art world as well as the founding creators of great and cherished pieces of art have been recognized and studied both- during and long after their deaths. It’s clear that some of their work was seen as being so precious that they were regularly protected, refurbished, and sometimes completely removed from their original sites and replaced with replicas in order to protect them and preserve them since they can often be priceless. 
 
 <p>
-<img align="left" src="../images/david.JPG" width = "180" height = "240">
+<img align="left" src="../images/david.JPG" width = "180" height = "240" margin="10px">
 </p>
 
 A specific example that I relate to this concept are the circumstances that led to the David statue that was created out of marble by Michelangelo between 1501 and 1504 which originally stood in the Palazzo della Signoria, Italy in a courtyard. I remember visiting this statue and thinking about how long it must have been standing there and how it was amazing that nothing has harmed it. Then one day to much surprise I found out in an art history lecture that the original statue had been removed from in its original location in 1873 and then placed indoors to prevent the original masterpiece from being destroyed and was replaced by a replica in 1910. These types of solutions to preserve and maintain prominent works of art have been used time and time again around the world and is relatable to the concept of design patterns. 
@@ -26,7 +26,7 @@ Design patterns are solutions that have been worked out after a long period of t
 ## Copy Cat Strikes Back
 
 <p>
-<img align="left" src="../images/copycat.jpg">
+<img align="left" src="../images/copycat.jpg" margin="10px">
 </p>
 
 With the studies of celebrated pieces of art, it is not uncommon to find that other artists often use these famous pieces of work as their templates to use to learn new techniques. By trying to recreate their work they can better understand the techniques that were being used by the original artists themselves. A software developer can sometimes operate similarly by using different patterns to help them come up with solutions for a project that they may be working on. Some of the most commonly used include prototype, observer, publish-subscribe, reactive, singleton, and Model-View-Controller design patterns. 
