@@ -31,7 +31,7 @@ This was the final design in clay. Each and every detail that was made on the cl
 
 <img align = "left" img class="ui image" src="../images/octoClayPlaster.JPG" height = "500"> <img align = "center" img class="ui image" src="../images/octoPlaster.JPG" width = "500">
 
-The first picture above shows the clay octopus piece casted inside the plaster mold. The clay was then dug out and removed, then scrubbed and thoroughly cleaned to achieve the white color that is shown in the second picture. After the plaster mold was removed from the clay we were able to enter one of the final stages- the cement process!
+The first picture above shows the clay octopus piece casted inside the plaster mold. The clay was then dug out and removed, then scrubbed and thoroughly cleaned to achieve the white color that is shown in the second picture. After the plaster mold was removed from the clay we were able to enter one of the final stages- the cement process.
 
 <img class="ui image" src="../images/octoCement.JPG" width = "500">
 
