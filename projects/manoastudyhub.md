@@ -27,7 +27,7 @@ The features that I contributed to this project were that I created the list stu
 
 <img class="ui centered image" src="../images/editstudysession-m3.JPG" width="700">
 
-From the list study session page users have the option to edit the study session only if they were the user who created it. They also do not have the option to attend the study session because if they created the session they are assumed to attend the session as well. Once they chose the edit option they are taken to a page that looks similar to the add study session page except it is already populated with the information for that study session. They are able to make their changes then they will be applied when they click submit, if all of the fields are filled out properly. 
+From the list study session page users have the option to edit the study session only if they were the user who created it. They also do not have the option to attend the study session if they created the session because they are assumed to attend the session as well. Once they chose the edit option they are taken to a page that looks similar to the add study session page except it is already populated with the information for that study session. They are able to make their changes then they will be applied when they click submit, if all of the fields are filled out properly. 
 
 <img class="ui centered image" src="../images/addstudysession-m3.JPG" width="700">
 
