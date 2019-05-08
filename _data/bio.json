@@ -6,7 +6,7 @@
     "email": "tlc852@hawaii.edu",
     "phone": "",
     "website": "https://tylerchinen.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96744",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "graphic design",
+      "name": "Drawing & Painting",
       "keywords": [
       ]
     }
@@ -69,14 +69,15 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
-      "studyType": "B.A.",
+      "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
         "Introduction to Computer Science I and II",
         "Discrete Mathematics for Computer Science I and II",
-        "Program Structure"
+        "Program Structure",
+        "Software Engineering I"
       ]
     }
   ],
