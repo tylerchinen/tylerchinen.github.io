@@ -11,7 +11,7 @@ labels:
   - Meteor
   - React
   - Galaxy
-summary: The Manoa Study Hub provides a platform for UH Manoa students to utilize to organize study groups for their classes as well as attend and organize their study schedule with the different features that are offered.
+summary: The Manoa Study Hub provides a platform for UH Manoa students to utilize to organize study groups.
 ---
 
 <img class="ui image" src="../images/octoExample.JPG">
