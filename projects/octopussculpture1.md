@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/octoExampleSquare.JPG
 title: Octopus Sculpture
-permalink: projects/octopussculpture
+permalink: projects/octopussculpture1
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-27
 labels:
