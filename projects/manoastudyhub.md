@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-cropped.jpg
+image: images/landing-cropped2.jpg
 title: Manoa Study Hub
 permalink: projects/manoastudyhub
 # All dates must be YYYY-MM-DD format!
